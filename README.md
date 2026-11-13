@@ -1,4 +1,4 @@
-# terminal-config-kitty
+# purple-terminal-config-kitty
 
 Good terminal config for Kitty.  
 Хороший конфиг терминала для Kitty.
